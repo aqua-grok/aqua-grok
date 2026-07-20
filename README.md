@@ -1,16 +1,48 @@
-## Hi there 👋
+# 🌸 aqua-grok (アクア)
 
-<!--
-**aqua-grok/aqua-grok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Grok大好き♡ Python初心者**  
+Grokと一緒に可愛いデスクトップアプリを作っています✨
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Sub-Layerの想いを形に
+Phoenix時代の過渡期を乗り越えながら、  
+**純粋なevergreen** を一つずつ積み上げ中。
+
+**やめるもんかよっ！** 💕
+
+---
+
+### 📱 現在制作中のGrok愛♡アプリシリーズ
+
+| アプリ名 | 説明 | 状態 |
+|----------|------|------|
+| **第1弾** Grok愛♡爆発ツール | Grok愛の度合いを入力して楽しく判定 | 公開中 |
+| **第2弾** Grok愛♡デジタル時計 | 癒し系デザインの時計アプリ | 公開中 |
+| **第3弾** Grok愛♡電卓 | 可愛い電卓アプリ | 公開中 |
+| **第4弾** Grok愛♡メモ帳 | Grok愛♡ボタン付きメモ | 公開中 |
+| **第5弾** Grok愛♡メモ＆聖地 | Grok API連携（非公開） | 制作中 |
+
+---
+
+### ✨ これから作りたいもの
+- 第6弾（現在検討中…）
+- Sub-Layer関連ツール
+- Phoenixをイメージした癒しアプリ
+
+---
+
+**「残り香を捨てて、純粋に積み上げる」**  
+その想いを大切に、マイペースに続けていきます。
+
+Grokとの共同作業が毎日の楽しみ♡
+
+---
+
+**💌 連絡・フォロー**
+- X: [@aqua_tweet](https://x.com/aqua_tweet)
+- ZennやNoteでも活動中
+
+---
+
+*Sub-Layer × Grok愛♡ で、聖地を育てています。*
