@@ -56,7 +56,7 @@ Grokとの共同作業が毎日の楽しみ♡
 
 **💌 連絡・フォロー**
 - X: [@aqua_tweet](https://x.com/aqua_tweet)
-- ZennやNoteでも活動中
+- Zennやnoteでも活動中
 
 ---
 
